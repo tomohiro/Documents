@@ -17,6 +17,14 @@ Streaming Replication
 
 - [ストリーミング・レプリケーションの構築 — Let's Postgres](http://lets.postgresql.jp/documents/technical/replication/1/)
 - [pgpool-II + HS/SRクラスタ構成 — Let's Postgres](http://lets.postgresql.jp/documents/technical/pgpool/3/)
+- [ストリーミングレプリケーションと pgpool-II の組み合わせ、簡単設定法(複数サーバ編)](http://www.pgpool.net/pgpool-web/contrib_docs/simple_sr_setting2_3.0/index-ja.html)
+- [PostgreSQLとストリーミング・レプリケーション | Think IT](http://thinkit.co.jp/book/2011/10/20/2309)
+- [ブログ -PostgreSQL9.3の高速フェイルオーバーは本当に高速なのか？-](http://www.insight-system.co.jp/devblog/blog/000962.html)
+
+
+### AWS
+
+- [RDBMS in the Cloud: PostgreSQL on AWSを読んでみた ｜ Developers.IO](http://dev.classmethod.jp/cloud/rdbms-in-the-cloud-postgresql-on-aws/)
 
 
 pgpool-II
@@ -40,3 +48,11 @@ Performance Tuning
 
 - [スロークエリの分析 — Let's Postgres](http://lets.postgresql.jp/documents/technical/query_analysis/)
 - [スロークエリの改善 — Let's Postgres](http://lets.postgresql.jp/documents/technical/query_tuning/)
+
+
+
+Tools
+--------------------------------------------------------------------------------
+
+- [wal-e/wal-e](https://github.com/wal-e/wal-e)
+- [Fujii Masao's Blog: pg_receivexlogで、リアルタイムにWALアーカイブ](http://fujiimasao.blogspot.jp/2012/12/pgreceivexlogwal.html)
