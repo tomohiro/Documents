@@ -7,13 +7,13 @@ Chapters
 
 - [Introduction](#introduction)
 - [Chapter 1](#chapter-1)
-  - [section 1.1](#section-1.1)
-  - [section 1.2](#section-1.2)
-  - [section 1.3](#section-1.3)
+  - [section 1.1](#section-11)
+  - [section 1.2](#section-12)
+  - [section 1.3](#section-13)
 - [Chapter 2](#chapter-2)
-  - [section 2.1](#section-2.1)
-  - [section 2.2](#section-2.2)
-  - [section 2.3](#section-2.3)
+  - [section 2.1](#section-21)
+  - [section 2.2](#section-22)
+  - [section 2.3](#section-23)
 - [References](#references)
 
 
