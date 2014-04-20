@@ -41,6 +41,7 @@ Frameworks
 ### Web Application Framework
 
 - [rails/rails](https://github.com/rails/rails)
+- [rails-api/rails-api](https://github.com/rails-api/rails-api)
 - [sinatra/sinatra](https://github.com/sinatra/sinatra)
 
 
@@ -77,6 +78,16 @@ Libraries
 - [gocardless/statesman](https://github.com/gocardless/statesman)
 - [geekq/workflow](https://github.com/geekq/workflow)
 - [jmettraux/ruote](https://github.com/jmettraux/ruote)
+
+
+### Notification
+
+- [rpush/rpush](https://github.com/rpush/rpush)
+
+
+### Modeling
+
+- [orgsync/active_interaction](https://github.com/orgsync/active_interaction)
 
 
 Applications
