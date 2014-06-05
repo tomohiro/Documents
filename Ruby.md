@@ -113,3 +113,4 @@ Kanban Board for GitHub  | [rauhryan/huboard](https://github.com/rauhryan/huboar
 Git based issue tracker  | [bkeepers/gaskit](https://github.com/bkeepers/gaskit)
 Private RubyGems hosting | [geminabox/geminabox](https://github.com/geminabox/geminabox)
 HTTP Request Analytics   | [Pingpong](http://pingpong.sh)
+Mail Testing             | [MailCatcher](http://mailcatcher.me)
