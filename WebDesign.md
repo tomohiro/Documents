@@ -8,6 +8,7 @@ Table of Contents
 - [Web Services](#web-services)
 - [UI Kits](#ui-kits)
 - [Frameworks](#frameworks)
+- [Guidelines](#guidelines)
 
 
 Web Services
@@ -27,10 +28,13 @@ UI Kits
 - [Flat UI - Free Bootstrap Framework and Themes](http://designmodo.github.io/Flat-UI/)
 - [Atlassian User Interface](https://docs.atlassian.com/aui/latest/)
 
+
 ### Web fonts
 
 - [Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
 - [Fontello - icon fonts generator](http://fontello.com/)
+- [Octicons](http://octicons.github.com/)
+- [Ligature Symbols](http://kudakurage.com/ligature_symbols/)
 
 
 CMS
@@ -43,3 +47,10 @@ Lang    | Name
 Ruby    | [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 Node.js | [Ghost - Just a blogging platform](https://ghost.org/)
 PHP     | [Statamic](http://statamic.com/)
+
+
+Guidelines
+--------------------------------------------------------------------------------
+
+- [Atlassian Design Guidelines](https://developer.atlassian.com/design/latest/)
+- [Google Design](http://www.google.com/design/)
