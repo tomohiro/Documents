@@ -20,6 +20,12 @@ Web Services
 UI Kits
 --------------------------------------------------------------------------------
 
+### Templates
+
+- [TEMPLATED - CSS, HTML5 and Responsive Site Templates](http://templated.co/)
+- [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
+
+
 ### CSS Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
