@@ -1,9 +1,13 @@
-List
+Documents
 ================================================================================
 
 
-- [Idea](Idea.md)
-- [Web Design](WebDesign.md)
-- [Web Services](WebServices.md)
-- [Ruby](Ruby.md)
-- [JavaScript](JavaScript.md)
+Getting Started
+--------------------------------------------------------------------------------
+
+```sh
+$ cd ~/Documents
+$ git init
+$ git remote add origin git@github.com:Tomohiro/Documents.git
+$ git pull origin master
+```
