@@ -55,4 +55,4 @@ References
 LICENSE
 --------------------------------------------------------------------------------
 
-&copy; copyright 2014 John Doe.
+&copy; Copyright 2014 John Doe.
