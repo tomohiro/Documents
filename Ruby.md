@@ -16,6 +16,7 @@ Table of Contents
     - [HTTP Client](#http-client)
 - [Applications](#applications)
 - [Web Applications](#web-applications)
+- [Analysis](#analysis)
 
 
 Documents
@@ -114,3 +115,12 @@ Git based issue tracker  | [bkeepers/gaskit](https://github.com/bkeepers/gaskit)
 Private RubyGems hosting | [geminabox/geminabox](https://github.com/geminabox/geminabox)
 HTTP Request Analytics   | [Pingpong](http://pingpong.sh)
 Mail Testing             | [MailCatcher](http://mailcatcher.me)
+
+
+Analysis
+--------------------------------------------------------------------------------
+
+Description                | Sites / Repository
+-------------------------- | ---------------------------------------------------
+Ruby code quality reporter | [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic)
+
