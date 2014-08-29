@@ -100,6 +100,7 @@ Description              | Sites / Repository
 GitHub Stargazer Client  | [Galileo. Search your starred GitHub repos from the shell.](http://jacksongariety.github.io/Galileo/)
 EC2 ssh_config manager   | [mirakui/ec2ssh](https://github.com/mirakui/ec2ssh)
 Text snippet manager     | [oscardelben/sheet](https://github.com/oscardelben/sheet)
+Database Schema manager  | [winebarrel/ridgepole](https://github.com/winebarrel/ridgepole)
 
 
 Web Applications
