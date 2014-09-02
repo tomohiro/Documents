@@ -45,6 +45,7 @@ Frameworks
 - [rails-api/rails-api](https://github.com/rails-api/rails-api)
 - [sinatra/sinatra](https://github.com/sinatra/sinatra)
 - [interagent/pliny](https://github.com/interagent/pliny)
+- [lifo/cramp](https://github.com/lifo/cramp)
 
 
 ### Command line application framework
