@@ -69,11 +69,16 @@ Libraries
 - [jnunemaker/httparty](https://github.com/jnunemaker/httparty)
 - [lostisland/faraday](https://github.com/lostisland/faraday)
 - [geemus/excon](https://github.com/geemus/excon)
+- [toland/patron](https://github.com/toland/patron)
+
+
+### Authorization
+
+- [applicake/doorkeeper](https://github.com/applicake/doorkeeper)
 
 
 ### Authentication
 
-- [applicake/doorkeeper](https://github.com/applicake/doorkeeper)
 - [plataformatec/devise](https://github.com/plataformatec/devise)
 
 ### State machine / Workflow engine
@@ -125,4 +130,3 @@ Analysis
 Description                | Sites / Repository
 -------------------------- | ---------------------------------------------------
 Ruby code quality reporter | [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic)
-
