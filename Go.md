@@ -47,6 +47,8 @@ Frameworks
   - [tcnksm/cli-init](https://github.com/tcnksm/cli-init)
   - [codegangsta/cli](https://github.com/codegangsta/cli)
 - [mitchellh/cli](https://github.com/mitchellh/cli)
+- [kentaro/facade](https://github.com/kentaro/facade)
+
 
 Libraries
 --------------------------------------------------------------------------------
