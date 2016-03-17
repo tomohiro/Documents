@@ -6,6 +6,22 @@ This is temporary bookmarks
 List
 --------------------------------------------------------------------------------
 
+- [Dear Web designer — Medium](https://medium.com/@midwestmustache/dear-web-designer-3830638d7657#.8mr4pf8ro)
+- [Writing a Friendly README](http://rowanmanning.com/posts/writing-a-friendly-readme/)
+- [第２回 Elasticsearch 入門 データスキーマ設計のいろは ｜ Developers.IO](http://dev.classmethod.jp/server-side/elasticsearch-getting-started-02/)
+- [Git で「追跡ブランチ」って言うのやめましょう - Qiita](http://qiita.com/uasi/items/69368c17c79e99aaddbf)
+- [CodeMill - the marketplace for pull requests](http://codemill.io/#how-it-works)
+- [Firing People](https://zachholman.com/talk/firing-people)
+- [クックパッドにおける最近のMicroservices事例 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/2016/03/16/100043)
+- [Scaling to exabytes and beyond | | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/03/magic-pocket-infrastructure/)
+- [新規事業の立ち上げが上手くいかず、毎年同じ展開になってしまう理由 | GuildWorks Blog](http://blog.guildworks.jp/2016/03/15/%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E3%81%AE%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%8C%E4%B8%8A%E6%89%8B%E3%81%8F%E3%81%84%E3%81%8B%E3%81%9A%E3%80%81%E6%AF%8E%E5%B9%B4%E5%90%8C%E3%81%98%E5%B1%95/)
+- [HTTPリクエストを減らすために【序章】HTTPリクエストは甘え - MOL](http://t32k.me/mol/log/reduce-http-requests-overview/)
+- [cweill/gotests: A Golang tool for generating table driven tests.](https://github.com/cweill/gotests)
+- [Vim-side #002: Vim最新動向と導入について – backspace.fm](http://backspace.fm/episode/v002/)
+- [TableDrivenTests · golang/go Wiki](https://github.com/golang/go/wiki/TableDrivenTests)
+- [Advanced Testing with Go // Speaker Deck](https://speakerdeck.com/mitchellh/advanced-testing-with-go)
+- [Announcing UDP Load Balancing in NGINX and NGINX Plus](https://www.nginx.com/blog/announcing-udp-load-balancing/)
+- [Building resilient systems with Consul by HashiCorp webinar - YouTube](https://www.youtube.com/watch?v=FGbzS6ripXA)
 - [Let's encryptをHerokuにあるRailsアプリに適用する - Qiita](http://qiita.com/kon_yu/items/4fba3365f548407908f0)
 - [Emacs Zshなどを設定した話 | Engineers' Blog](https://moneyforward.com/engineers_blog/2016/03/15/dotfiles/)
 - [マネーフォワードのtvOSアプリケーションを開発した話 | Engineers' Blog](https://moneyforward.com/engineers_blog/2016/02/26/moneyforward-tvos/)
@@ -22,4 +38,4 @@ List
 - [coreos-xhyveに外部ストレージをマウントして使いたい - Qiita](http://qiita.com/uraura/items/ea1fc61cad4efd7fb9c1)
 - [メルカリにおける、継続的なアプリケーション改善を支える技術 / Continuous improvement applications and Mercari SRE #retty_tech_cafe // Speaker Deck](https://speakerdeck.com/kazeburo/continuous-improvement-applications-and-mercari-sre-number-retty-tech-cafe)
 - [まだオンプレミスで消耗してるの?--AWSのセキュリティサービスを使い倒す - ZDNet Japan](http://japan.zdnet.com/article/35079149/)
-- [NAT をやめて、透過 SOCKS プロキシを導入した - Cybozu Inside Out | サイボウズエンジニアのブログ](http://blog.cybozu.io/entry/2016/03/14/130000)
+- [NAT をやめて、透過 SOCKS プロキシを導入した - Cybozu Inside Out | サイボウズエaンジニアのブログ](http://blog.cybozu.io/entry/2016/03/14/130000)
