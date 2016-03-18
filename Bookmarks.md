@@ -6,6 +6,7 @@ This is temporary bookmarks
 List
 --------------------------------------------------------------------------------
 
+- [phpcs & phpcbf コマンドについてメモ - Qiita](http://qiita.com/ukyooo/items/c1c7d12ec8e11f33139b)
 - [Dear Web designer — Medium](https://medium.com/@midwestmustache/dear-web-designer-3830638d7657#.8mr4pf8ro)
 - [Writing a Friendly README](http://rowanmanning.com/posts/writing-a-friendly-readme/)
 - [第２回 Elasticsearch 入門 データスキーマ設計のいろは ｜ Developers.IO](http://dev.classmethod.jp/server-side/elasticsearch-getting-started-02/)
