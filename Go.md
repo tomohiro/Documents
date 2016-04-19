@@ -7,20 +7,23 @@ Table of Contents
 
 - [Documents](#documents)
 - [Frameworks](#frameworks)
-    - [Web Application Framework](#web-application-framework)
     - [Command line application framework](#command-line-application-framework)
 - [Libaries](#libraries)
 - [Applications](#applications)
-- [Web Applications](#web-applications)
 
 
 Documents
 --------------------------------------------------------------------------------
 
+- [The Go Programming Language](https://golang.org)
+- [Golang Essentials](https://gist.github.com/Integralist/53f6dc643fd0227c6606)
+- [Go Proverbs](http://go-proverbs.github.io/)
+- [Effective Go](http://golang-jp.org/doc/effective_go.html)
+
 ### Japanese
 
-- [golang.jp - プログラミング言語Goの情報サイト](http://golang.jp/)
-- [実践Go言語 - golang.jp](http://golang.jp/effective_go)
+- [The Go Programming Language](https://golang-jp.org)
+- [A Tour of Go](http://go-tour-jp.appspot.com/)
 - [Go言語の初心者が見ると幸せになれる場所](http://qiita.com/tenntenn/items/0e33a4959250d1a55045)
 
 
@@ -36,23 +39,21 @@ Documents
 Frameworks
 --------------------------------------------------------------------------------
 
-### Web Application Framework
-
-- [Martini - Classy web development in Go.](http://martini.codegangsta.io/)
-
-
-### Command line application framework
+### Command-line application framework
 
 - [高速にGo言語のCLIツールをつくるcli-initというツールをつくった](http://deeeet.com/writing/2014/06/22/cli-init/)
-  - [tcnksm/cli-init](https://github.com/tcnksm/cli-init)
-  - [codegangsta/cli](https://github.com/codegangsta/cli)
+  - [tcnksm/gcli](https://github.com/tcnksm/gcli)
+- [codegangsta/cli](https://github.com/codegangsta/cli)
 - [mitchellh/cli](https://github.com/mitchellh/cli)
-- [kentaro/facade](https://github.com/kentaro/facade)
 
 
 Libraries
 --------------------------------------------------------------------------------
 
+Description              | Sites / Repository
+------------------------ | -----------------------------------------------------
+Simple way to check version is latest or not from various sources in Golang  | [tcnksm/go-latest](https://github.com/tcnksm/ghr)
+Go library for detecting and expanding the user's home directory without cgo. | [mitchellh/go-homdir](https://github.com/mitchellh/go-homedir)
 
 
 Applications
@@ -63,3 +64,5 @@ Description              | Sites / Repository
 Go cross compile tool    | [mitchellh/gox](https://github.com/mitchellh/gox)
 Interactive filtering    | [peco/peco](https://github.com/peco/peco)
 Manage GitHub repository | [motemen/ghq](https://github.com/motemen/ghq)
+Upload multiple artifacts to GitHub Release in parallel | [tcnksm/ghr](https://github.com/tcnksm/ghr)
+
