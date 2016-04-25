@@ -6,6 +6,23 @@ This is temporary bookmarks
 List
 --------------------------------------------------------------------------------
 
+- [Reading Go Tools - GoCon 2016 Spring](https://speakerdeck.com/motemen/reading-go-tools-gocon-2016-spring)
+- [joshbuchea/HEAD - A list of everything that goes in the <head> of your document](https://github.com/joshbuchea/HEAD)
+- [起業ファイナンスレポート2016](https://github.com/mitou/startup_financing_report)
+- [Golangのエラー処理とpkg/errors](http://deeeet.com/writing/2016/04/25/go-pkg-errors/)
+- [Linux コンテナの基礎 / 9th CTStudy](https://speakerdeck.com/tenforward/9th-ctstudy)
+- [ダイバーシティの本質はそういうことじゃないんじゃないかな](http://simplearchitect.hatenablog.com/entry/2016/04/25/081532)
+- [技術的アウトプットが必要な未来に求められる心構えと社外発表の頻度を増やす事の副次的効果](http://hb.matsumoto-r.jp/entry/2016/04/25/123435)
+- [フロントエンド速度改善でやったこと(Expiresヘッダ、faviconのgzip圧縮、JSの読み込み遅延化) - $shibayu36->blog;](http://blog.shibayu36.org/entry/2016/03/29/120000)
+- [ディープラーニング（TensorFlow）を使用した株価予想 ～その2～ - Qiita](http://qiita.com/yai/items/8c0ad280cc2f53e40256)
+- [Redis Documentation (Japanese Translation) — Redis Documentation (Japanese Translation)](http://redis-documentasion-japanese.readthedocs.org/ja/latest/index.html)
+- [安心してRailsアップグレードを行うための工夫 - クックパッド開発者ブログ](http://techlife.cookpad.com/entry/how-to-safely-upgrade-rails)
+- [The Way of the Gopher — Medium](https://medium.com/@theflapjack103/the-way-of-the-gopher-6693db15ae1f#.dpzlccjcv)
+- [JuanitoFatas/what-do-you-call-this-in-ruby: Solving the second hard problem in Computer Science.](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby)
+- [Makefileを自己文書化する | プログラミング | POSTD](http://postd.cc/auto-documented-makefile/)
+- [mrubyのmrbgemの依存関係とmgem-listの登録について - 人間とウェブの未来](http://hb.matsumoto-r.jp/entry/2015/10/31/202645)
+- [Pipelines | Heroku Dev Center](https://devcenter.heroku.com/articles/pipelines)
+- [AWSとAzureにおけるMicroservicesに対するサービスへのアプローチの違いを考える](https://www.kzmx.net/azure/1501/)
 - [phpcs & phpcbf コマンドについてメモ - Qiita](http://qiita.com/ukyooo/items/c1c7d12ec8e11f33139b)
 - [Dear Web designer — Medium](https://medium.com/@midwestmustache/dear-web-designer-3830638d7657#.8mr4pf8ro)
 - [Writing a Friendly README](http://rowanmanning.com/posts/writing-a-friendly-readme/)
